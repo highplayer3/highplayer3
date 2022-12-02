@@ -2,3 +2,4 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=highplayer3&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=highplayer3&theme=xcode" /> </div>
 ![](https://visitor-badge.glitch.me/badge?page_id=highplayer3.readme)
+![](http://antzuhl.cn:4000/get/@highplayer3.readme)
